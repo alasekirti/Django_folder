@@ -1,1 +1,1 @@
-# Django_folder
+# django-watch-shop
